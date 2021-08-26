@@ -36,6 +36,6 @@ public class L7{
     System.out.println("Sales tax is: " + percentage.format(0.07));
 
     DecimalFormat crazy = new DecimalFormat("THIS IS JUST LOTSA MONIES $#, ###.00");
-    System.out.println(crazy.format(123456789.235694) 
+    System.out.println(crazy.format(123456789.235694)
     }
 }
